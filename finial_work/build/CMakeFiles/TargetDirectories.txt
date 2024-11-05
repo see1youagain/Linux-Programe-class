@@ -1,0 +1,3 @@
+/home/lzzy/project/linux_class/finial_work/build/CMakeFiles/rebuild_cache.dir
+/home/lzzy/project/linux_class/finial_work/build/CMakeFiles/edit_cache.dir
+/home/lzzy/project/linux_class/finial_work/build/CMakeFiles/ThreadPoolSortingProject.dir
